@@ -1,0 +1,10 @@
+D:\практика\Задание 3\Pract 3 var 5\obj\Debug\Pract_3_var_5.Form1.resources
+D:\практика\Задание 3\Pract 3 var 5\obj\Debug\Pract_3_var_5.Properties.Resources.resources
+D:\практика\Задание 3\Pract 3 var 5\obj\Debug\Pract 3 var 5.csproj.GenerateResource.cache
+D:\практика\Задание 3\Pract 3 var 5\obj\Debug\Pract 3 var 5.csproj.CoreCompileInputs.cache
+D:\практика\Задание 3\Pract 3 var 5\obj\Debug\Pract 3 var 5.csproj.AssemblyReference.cache
+D:\практика\Задание 3\Pract 3 var 5\bin\Debug\Pract 3 var 5.exe.config
+D:\практика\Задание 3\Pract 3 var 5\bin\Debug\Pract 3 var 5.exe
+D:\практика\Задание 3\Pract 3 var 5\bin\Debug\Pract 3 var 5.pdb
+D:\практика\Задание 3\Pract 3 var 5\obj\Debug\Pract 3 var 5.exe
+D:\практика\Задание 3\Pract 3 var 5\obj\Debug\Pract 3 var 5.pdb
